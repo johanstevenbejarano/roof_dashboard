@@ -1,0 +1,10 @@
+📦 Exportación de datos para el Dashboard de Techos
+==================================================
+📅 Fecha: 2025-07-23 06:37:30
+🖼️ Total de imágenes: 481
+📄 Archivos incluidos:
+  - df_metrics_clustered.pkl
+  - df_metrics_clustered.csv
+  - cluster_summary.json
+  - cluster_representatives.json
+  - cluster_summary.csv

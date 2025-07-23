@@ -1,0 +1,16 @@
+{
+    "generated_on": "2025-07-23 06:37:30",
+    "total_images": 481,
+    "clusters": [
+        0,
+        1,
+        2
+    ],
+    "files": [
+        "df_metrics_clustered.pkl",
+        "df_metrics_clustered.csv",
+        "cluster_summary.json",
+        "cluster_representatives.json",
+        "cluster_summary.csv"
+    ]
+}
